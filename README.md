@@ -116,7 +116,7 @@ To set the default language for your blog, edit the `src/config/siteConfig.ts` f
 
 ```typescript
 // Define site language
-const SITE_LANG = "zh_CN";
+const SITE_LANG = "zh_TW";
 ```
 
 **Supported language codes:**
